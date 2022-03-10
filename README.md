@@ -8,7 +8,6 @@ and API.For time being I have commented out the json API
 and enabled the string form. If needed you can altre the 
 code and check out the json API.
 
-And there was a problem in generate a signed APK.
 Thank you.
 
 Shujay K E
