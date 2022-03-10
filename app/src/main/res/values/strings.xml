@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">developers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_aboutus">About Us</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="welcome">Welcome to the Android Developer guides. These documents teach you how to build Android apps using API in the Android framework and other libraries. If youre brand new to Android and want to jump into code, start with the Build Your First App tutorial. And check out these other resources to learn Android development: Codelabs: Short, self-paced tutorials that each cover a discrete topic. Most codelabs step you through the process of building a small app, or adding a new feature to an existing app. Courses: Guided training paths that teach how to build Android apps. Online training: If you prefer to learn online with videos, check out the Developing Android with Kotlin course on Udacity and other courses.</string>
+
+    <string name="link"><a href="https://developer.android.com">Visit developer.android.com</a></string>
+
+</resources>
